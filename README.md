@@ -15,7 +15,8 @@ https://hp-api.herokuapp.com/
 
 
 📝 PROJETO
-Arquitetura MVC
-Persistencia em UserDefaults
-SnapKit 5.0.1
-KingFisher 7.1.1
+
+- Arquitetura MVC
+- Persistencia em UserDefaults
+- SnapKit 5.0.1
+- KingFisher 7.1.1
