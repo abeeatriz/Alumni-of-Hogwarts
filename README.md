@@ -3,11 +3,12 @@ App iOS desenvolvido para fins didáticos ao final do curso preparatório do pro
 
 
 ✅REQUISITOS
-Fazer uma lista com scroll
-Persistencia de dados com lista de favoritos
-Chamada de API externa
-Mostrar pelo menos uma imagem externa
-Ter pelo menos um teste unitário
+
+- Fazer uma lista com scroll
+- Persistencia de dados com lista de favoritos
+- Chamada de API externa
+- Mostrar pelo menos uma imagem externa
+- Ter pelo menos um teste unitário
 
 💻 API Utilizada
 https://hp-api.herokuapp.com/
